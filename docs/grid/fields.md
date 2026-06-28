@@ -401,7 +401,7 @@ All you need to do is create your own class implementing
 ```php
 <?php
 
-namespace App\Grid\FieldType;
+namespace App\Grid\CustomType;
 
 use Sylius\Component\Grid\Attribute\AsField;
 use Sylius\Component\Grid\Definition\Field;
